@@ -1,4 +1,0 @@
-login admin : message en console et en rapport de test => problème de value sur le Login.js
-Solution apportée : le code spécifiait les ID pour les entrées employee dans la fonction "handleSubmitAdmin" au lieu d'admin
-
-billes : 
